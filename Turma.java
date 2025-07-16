@@ -1,4 +1,4 @@
-class Turma {
+public class Turma {
     String codigo;
     String nomeProfessor;
     ArrayList<Aluno> alunos;
