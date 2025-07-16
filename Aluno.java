@@ -1,4 +1,4 @@
-class Aluno {
+public class Aluno {
     String nome;
     double CR;
 
