@@ -1,8 +1,8 @@
+
 class Autor {
     String nome;
     String nacionalidade;
 
-    // Construtores
     public Autor() {}
     public Autor(String nome) {
         this.nome = nome;
